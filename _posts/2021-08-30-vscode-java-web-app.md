@@ -30,26 +30,26 @@ Sau khi có tất cả những thứ kể trên, để thuận tiện cho công 
 Đầu tiên ta sẽ tạo một project mới.
 Ấn `Create Java Project` ngay thanh `Explorer` bên trái (Chỉ xuất hiện sau khi đã cài extension số 1 ở trên).
 
-![img](https://i.imgur.com/DahPzkV.png?1)
+![img](https://i.imgur.com/DahPzkV.png?2)
 
 Một chiếc bảng xuất hiện để lựa chọn loại project, chọn `Maven`
 
-![img](https://i.imgur.com/0o9m0IZ.png)
+![img](https://i.imgur.com/0o9m0IZ.png?1)
 
 Một chiếc bảng khác lại hiện ra bắt ta lựa chọn mẫu project cho `Maven`, chọn `maven-archetype-webapp`
 
-![img](https://i.imgur.com/VbthooT.png)
+![img](https://i.imgur.com/VbthooT.png?1)
 
 Tiếp theo ta sẽ chọn phiên bản cho project. Ở đây ta sẽ chọn `1.4` (cho nó mới 😀)
 >Lưu ý: khi làm việc nhóm cả team phải thống nhất với nhau phiên bản để tránh trường hợp **"Ông chạy được, bà tắt tiếng"**
 
-![img](https://i.imgur.com/bp7AcQi.png)
+![img](https://i.imgur.com/bp7AcQi.png?1)
 
 Đặt group Id và artifact Id cho project.  Vì lười nên thôi lấy ví dụ có sẵn luôn cho tiện 🥲.  Có thể tìm hiểu thêm [tại đây][idmeaning] về ý nghĩa và cách đặt tên cho 2 loại id này. `Enter` cái rụp và chọn vị trí để lưu project.
 
-![img](https://i.imgur.com/ovB620j.png)
+![img](https://i.imgur.com/ovB620j.png?1)
 
-![img](https://i.imgur.com/ZDLOmIZ.png)
+![img](https://i.imgur.com/ZDLOmIZ.png?1?1)
 
 Lúc này `terminal` hiện lên chạy như một vị thần. Có hai chỗ `terminal` sẽ đứng im và bắt chúng ta điền thông tin, tạm thời đừng quan tâm, cứ `Enter` là được.
 ```js
@@ -60,7 +60,7 @@ Lúc này `terminal` hiện lên chạy như một vị thần. Có hai chỗ `t
 ...
  ```
 
-![img](https://i.imgur.com/J5ZXY0v.gif)
+![img](https://i.imgur.com/J5ZXY0v.gif?1)
 
 Bùm, folder project đã xong nhờ khả năng của hacker Pepe mới thuê. Một chiếc bảng hiện ra thông báo folder project đã được tạo, ấn `Open` (Hoặc ai rảnh thì vào folder của nó mở nhé 😏)
 
@@ -69,7 +69,7 @@ Bùm, folder project đã xong nhờ khả năng của hacker Pepe mới thuê. 
 
 >Ghi chú nhẹ: Loz nào éo ra như này thì xác định ăn loz cả sải
 
-![img](https://i.imgur.com/XpZbBMz.png)
+![img](https://i.imgur.com/XpZbBMz.png?1)
 
 #### b. Thêm nội dung và chỉnh sửa cấu trúc:
 
@@ -185,25 +185,25 @@ Thành quả:
 
 Biểu tượng server stop cùng tên xuất hiện!
 
-![img](https://i.imgur.com/V1NFauf.png)
+![img](https://i.imgur.com/V1NFauf.png?1)
 
 #### d. Một kỷ nguyên mới khởi đầu:
 Kéo được con mồn lèo xong rồi (hơi quằn) thì chạy qua thanh `Explorer` bên trái tìm `Maven`. Bật nó lên kiếm `Lifecycle`  và thực hiện:
 1. `clean`
 2. `package` 
 
-![img](https://i.imgur.com/XaljUws.png)
+![img](https://i.imgur.com/XaljUws.png?1)
 
 Đợi một khoảng để chương trình xóa rồi tạo lại folder `target` mới dựa trên những gì mình mới thêm vào.
 
 
 Nếu folder `target` chưa xuất hiện thì nhìn qua thanh `Explorer` bên trái tìm mục `Java Project`, chuột phải vào tên của project chọn `Update Project`
 
-![img](https://i.imgur.com/yNke80v.png)
+![img](https://i.imgur.com/yNke80v.png?1)
 
 Lúc này cấu trúc của project có thể được nhìn như sau:
 
-![img](https://i.imgur.com/SMZ77nI.png)
+![img](https://i.imgur.com/SMZ77nI.png?1)
 
 #### e. Đến giờ chạy code rồi - Mammy said:
 
@@ -211,31 +211,31 @@ Lúc này cấu trúc của project có thể được nhìn như sau:
 
 Ở folder `target`, Chuột phải vào folder `demo` (folder trùng tên với `artifact Id` mình tạo) chọn `Run on Tomcat Server`
 
-![img](https://i.imgur.com/8sIpLPJ.png)
+![img](https://i.imgur.com/8sIpLPJ.png?1)
 
 Lúc này nhìn vào mục `Tomcat Server` ở thanh `Explorer` bên trái sẽ thấy màu server chuyển từ đỏ sang xanh (stop to start) và xuất hiện biểu tượng `Web demo`
 
-![img](https://i.imgur.com/K34HHqv.png)
+![img](https://i.imgur.com/K34HHqv.png?1)
 
 Chuột phải vào biểu tượng đó và chọn `Open in Browser`
 
-![img](https://i.imgur.com/4wqQhEX.png)
+![img](https://i.imgur.com/4wqQhEX.png?1)
 
 Cùng làm tách trà ngồi dựa lưng vào ghế thư giãn xem công sức nãy giờ của mình được hiển thị như thế nào. Salys ủng hộ bạn! 
 
-![img](https://i.imgur.com/CrdJEDi.png)
+![img](https://i.imgur.com/CrdJEDi.png?1)
 
 
 
 Đếm từ 1 đến 10... 
 
-![img](https://i.imgur.com/82cJFwH.png)
+![img](https://i.imgur.com/82cJFwH.png?1)
 
 Quá đã, không uổng công ngồi đọc nãy giờ. Nếu thất bại, thằng Viên nó sẽ bị chửi nên là tới nước này tốt nhất là nên lên hình. Pls! 🤬
 
 Gòi! Điền tên rồi ấn `Click here` để coi `servlet` làm ăn ra sao 
 
-![img](https://i.imgur.com/mj4Ix1B.png)
+![img](https://i.imgur.com/mj4Ix1B.png?1)
 
 Một sinh viên Bách Khoa chia sẻ:
 >Úi giời ơi, dễ vãiiiii loz!  
