@@ -111,6 +111,7 @@ _Đoạn này là đoạn sướng nhất. Ông nào thích code khoái lắm._
 
 3. Việc thứ ba không phải việc của má, tạo folder theo cấu trúc sau `java/com/example` trong folder  `src/main`. Sau đó ở folder `example` tạo file `servlet.java` thêm vào đoạn code sau:
 
+
 ```java
 package  com.example;
 import  java.io.PrintWriter;
@@ -170,11 +171,11 @@ public  class  servlet  extends  HttpServlet {
 _**Window**_
 > Dễ lắm, làm theo là được - Một nhà hiền triết nào đó cho hay  
 
-https://user-images.githubusercontent.com/42694704/131340778-793fe8b9-5bb9-4751-bb15-366d2f44841e.mp4
+<div style="width:100%;height:0px;position:relative;padding-bottom:75.000%;"><iframe src="https://streamable.com/e/53w9li" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 _**Mac**_
 
-https://user-images.githubusercontent.com/42694704/131342189-6a86e45c-dd03-4c02-9df6-d1432c213d2c.mp4
+<div style="width:100%;height:0px;position:relative;padding-bottom:60.606%;"><iframe src="https://streamable.com/e/1yoe5q" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 _**Linux**_
 >Not yet implemented
