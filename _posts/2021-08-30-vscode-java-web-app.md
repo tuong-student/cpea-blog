@@ -170,6 +170,7 @@ public  class  servlet  extends  HttpServlet {
 Nhìn cú pháp quen không? 😌
 
 #### c. Tomcat server:
+
 |[Window][window-tomcat]|[Mac][mac-tomcat]|Linux|
 |--|--|--|
 
