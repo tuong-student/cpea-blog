@@ -1,5 +1,5 @@
 ---
 title: Welcome to my blog
-Layout: default
+layout: default
 published: true
 ---
