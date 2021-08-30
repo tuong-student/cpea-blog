@@ -167,6 +167,8 @@ public  class  servlet  extends  HttpServlet {
 </html>
 ```
 
+Nhìn cú pháp quen không? 😌
+
 #### c. Tomcat server:
 _**Window**_
 > Dễ lắm, làm theo là được - Một nhà hiền triết nào đó cho hay  
