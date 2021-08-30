@@ -1,12 +1,11 @@
-title: [CPea blog]
+title: CPea blog
 author: Đỗ Viên (CPea)
 email: cpea2506@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  [Một chiếc web dùng để chia sẻ kiến thức lập trình hoặc không!]
+  Một chiếc web dùng để chia sẻ kiến thức lập trình hoặc không!
 
 # social links
 github_username: cpea2506 # DO NOT include the @ character, or else the build will fail!
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: false # set to false to remove excerpts on the homepage
 remote_theme: pages-themes/hacker@v0.2.0
-theme: minima
