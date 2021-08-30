@@ -67,7 +67,7 @@ Bùm, folder project đã xong nhờ khả năng của hacker Pepe mới thuê. 
 ### 2. Chuẩn bị bên trong project
 #### a. Cấu trúc project 
 
->Ghi chú nhẹ: Loz nào éo ra như này thì xác định ăn loz cả sải
+>Ghi chú nhẹ: Loz nào éo ra như này thì xác định ăn loz cả sải. Không nhấ thi phả có folder project.
 
 ![img](https://i.imgur.com/XpZbBMz.png?)
 
@@ -170,17 +170,8 @@ public  class  servlet  extends  HttpServlet {
 Nhìn cú pháp quen không? 😌
 
 #### c. Tomcat server:
-_**Window**_
-> Dễ lắm, làm theo là được - Một nhà hiền triết nào đó cho hay  
-
-<a href="https://imgur.com/cSa5KBn"><img src="https://i.imgur.com/cSa5KBn.mp4" title="source: imgur.com" /></a>
-
-_**Mac**_
-
-<a href="https://imgur.com/JliA2pO"><img src="https://i.imgur.com/JliA2pO.mp4" title="source: imgur.com" /></a>
-
-_**Linux**_
->Not yet implemented
+|[Window][window-tomcat]|Mac[mac-tomcat]|Linux|
+|--|--|--|
 
 Thành quả: 
 >Ông nào làm thành công quả này coi như có được 70% sức mạnh trong tay.
@@ -227,8 +218,6 @@ Cùng làm tách trà ngồi dựa lưng vào ghế thư giãn xem công sức n
 
 ![img](https://i.imgur.com/CrdJEDi.png?)
 
-
-
 Đếm từ 1 đến 10... 
 
 ![img](https://i.imgur.com/82cJFwH.png?)
@@ -248,7 +237,9 @@ Một sinh viên Bách Khoa chia sẻ:
 
 [//]: # (These are reference links used in the body of this note)
 [pack]: <https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack>
-[tomcat]: <https://marketplace.visualstudio.com/items?itemName=adashen.vscode-tomcat>
 [xml]: <https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml>
 [idmeaning]: <http://maven.apache.org/guides/mini/guide-naming-conventions.html>
+[tomcat]: <https://marketplace.visualstudio.com/items?itemName=adashen.vscode-tomcat>
 [tomcatwget]: <https://downloads.apache.org/tomcat/tomcat-8/v8.5.70/bin/apache-tomcat-8.5.70.zip>
+[window-tomcat]: <https://i.imgur.com/cSa5KBn.mp4>
+[mac-tomcat]: <https://i.imgur.com/JliA2pO.mp4>
