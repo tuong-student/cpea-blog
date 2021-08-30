@@ -1,6 +1,11 @@
 ---
-title: "LOL"
-date: 2021-08-30
+title: LOL
+date: {}
+published: true
 ---
 
+---
+layout: post
+title: test
+---
 Cc
