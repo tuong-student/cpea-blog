@@ -170,8 +170,8 @@ public  class  servlet  extends  HttpServlet {
 Nhìn cú pháp quen không? 😌
 
 #### c. Tomcat server:
-[Window][window-tomcat]|[Mac][mac-tomcat]|Linux
---|--|--
+|[Window][window-tomcat]|[Mac][mac-tomcat]|Linux|
+|--|--|--|
 
 Thành quả: 
 >Ông nào làm thành công quả này coi như có được 70% sức mạnh trong tay.
