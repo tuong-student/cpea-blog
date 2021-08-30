@@ -167,6 +167,7 @@ _**Window**_
 https://user-images.githubusercontent.com/42694704/131340778-793fe8b9-5bb9-4751-bb15-366d2f44841e.mp4
 
 _**Mac**_
+
 https://user-images.githubusercontent.com/42694704/131342189-6a86e45c-dd03-4c02-9df6-d1432c213d2c.mp4
 
 _**Linux**_
