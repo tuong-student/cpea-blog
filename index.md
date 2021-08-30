@@ -1,5 +1,23 @@
 ---
-title: "Welcome to my blog"
+title: Welcome to my blog
+published: true
 ---
-
-I'm glad you are here. I plan to talk about blog
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>{{ page.title }}</title>
+        <!-- link to main stylesheet -->
+    </head>
+    <body>
+        <h2 class = "head">{{page.title}}</h2>
+            <div class="container")
+              {{ content }}
+            </div><!-- /.container -->
+        <footer>
+            <ul>
+                <p><a href="mailto:cpea2506@gmail.com">email</a></p>
+                <p><a href="https://github.com/cpea2506">github</a></p>
+            </ul>
+        </footer>
+    </body>
+</html>
