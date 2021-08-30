@@ -7,11 +7,13 @@ published: true
 
 ## Thiết lập môi trường 101
 Trước khi vào bài học, cần tải và cài những thứ cần thiết sau:
+
 | Cellar | Window | Mac | Linux |
 |--|--|--|--|
 |Openjdk | `Liên hệ Trí Lạc Đà` | `brew install openjdk`|`sudo apt install default-jdk`
 |Tomcat9|`Liên hệ Trí Lạc Đà`| `brew install tomcat@9`| [wget][tomcatwget]
 |Maven|`Liên hệ Trí Lạc Đà`|`brew install maven`|`sudo apt install maven`
+
 - Brain! 🧠
 - Some Magic  ✨
 - Cầu nguyện ông bà 🙏
@@ -64,13 +66,17 @@ Bùm, folder project đã xong nhờ khả năng của hacker Pepe mới thuê. 
 
 ### 2. Chuẩn bị bên trong project
 #### a. Cấu trúc project 
+
 >Ghi chú nhẹ: Loz nào éo ra như này thì xác định ăn loz cả sải
 
 ![img](https://i.imgur.com/XpZbBMz.png)
 
 #### b. Thêm nội dung và chỉnh sửa cấu trúc:
+
 _Đoạn này là đoạn sướng nhất. Ông nào thích code khoái lắm._
+
 1. Việc đầu tiên cũng là việc thứ nhất, thêm dòng này vào bên trong tag `<dependencies>` của file `pom.xml` (Không có là có chiện nha Lâm 😏)
+
 ```xml
 <dependencies>
 ...
@@ -224,7 +230,7 @@ Cùng làm tách trà ngồi dựa lưng vào ghế thư giãn xem công sức n
 
 ![img](https://i.imgur.com/82cJFwH.png)
 
-Quá đã, không uổng công ngồi đọc nãy giờ. Nế thất bại, thằng Viên nó sẽ bị chửi nên là tới nước này tốt nhất là nên lên hình. Pls! 🤬
+Quá đã, không uổng công ngồi đọc nãy giờ. Nếu thất bại, thằng Viên nó sẽ bị chửi nên là tới nước này tốt nhất là nên lên hình. Pls! 🤬
 
 Gòi! Điền tên rồi ấn `Click here` để coi `servlet` làm ăn ra sao 
 
