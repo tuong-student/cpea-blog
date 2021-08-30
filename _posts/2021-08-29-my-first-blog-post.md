@@ -1,6 +1,6 @@
 ---
 title: LOL
-date: 30-08-2021
+date: '2021-08-30'
 published: true
 ---
 
