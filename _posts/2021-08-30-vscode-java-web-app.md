@@ -60,7 +60,7 @@ Lúc này `terminal` hiện lên chạy như một vị thần. Có hai chỗ `t
 ...
  ```
 
-![img](https://i.imgur.com/J5ZXY0v.gif?1)
+![img](https://i.imgur.com/J5ZXY0v.gif?)
 
 Bùm, folder project đã xong nhờ khả năng của hacker Pepe mới thuê. Một chiếc bảng hiện ra thông báo folder project đã được tạo, ấn `Open` (Hoặc ai rảnh thì vào folder của nó mở nhé 😏)
 
