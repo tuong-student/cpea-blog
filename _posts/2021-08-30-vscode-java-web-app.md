@@ -91,6 +91,7 @@ _Đoạn này là đoạn sướng nhất. Ông nào thích code khoái lắm._
 ```
 
 2. Việc thứ hai cũng là việc thứ nhì, xóa hết tất cả và nhét bên trong file `web.xml` nằm ở folder `webapp/WEB-INF` đoạn code thử nghiệm sau:
+
 ```xml
 <!DOCTYPE  web-app PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN" "http://java.sun.com/dtd/web-app_2_3.dtd">
 <web-app>
@@ -110,7 +111,6 @@ _Đoạn này là đoạn sướng nhất. Ông nào thích code khoái lắm._
 ```
 
 3. Việc thứ ba không phải việc của má, tạo folder theo cấu trúc sau `java/com/example` trong folder  `src/main`. Sau đó ở folder `example` tạo file `servlet.java` thêm vào đoạn code sau:
-
 
 ```java
 package  com.example;
@@ -159,7 +159,7 @@ public  class  servlet  extends  HttpServlet {
 	<body>
 		<h1>Hello World!</h1>
 		<form  action="./api"  method="get, post">
-			<label">Name of you: </label>
+			<label>Name of you: </label>
 			<input  type="text"  name  ="user">
 			<input  type="submit"  value="Click here">
 		</form>
@@ -171,11 +171,11 @@ public  class  servlet  extends  HttpServlet {
 _**Window**_
 > Dễ lắm, làm theo là được - Một nhà hiền triết nào đó cho hay  
 
-<div style="width:100%;height:0px;position:relative;padding-bottom:75.000%;"><iframe src="https://streamable.com/e/53w9li" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+<a href="https://imgur.com/cSa5KBn"><img src="https://i.imgur.com/cSa5KBn.mp4" title="source: imgur.com" /></a>
 
 _**Mac**_
 
-<div style="width:100%;height:0px;position:relative;padding-bottom:60.606%;"><iframe src="https://streamable.com/e/1yoe5q" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+<a href="https://imgur.com/JliA2pO"><img src="https://i.imgur.com/JliA2pO.mp4" title="source: imgur.com" /></a>
 
 _**Linux**_
 >Not yet implemented
